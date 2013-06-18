@@ -1,6 +1,6 @@
 name             'dengle-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Darin Engle'
+maintainer_email 'darin.engle@turner.com'
 license          'All rights reserved'
 description      'Installs/Configures dengle-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
